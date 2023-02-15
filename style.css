@@ -56,7 +56,7 @@
 }
 
 body {
-  background-color: #242333;
+  background-image:url('image/background.jpg');
   color: #fff;
   display: flex;
   flex-direction: column;
